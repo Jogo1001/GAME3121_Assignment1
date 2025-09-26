@@ -1,5 +1,6 @@
-﻿/*using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerControllerX : MonoBehaviour
@@ -14,6 +15,8 @@ public class PlayerControllerX : MonoBehaviour
         {
             Instantiate(dogPrefab, transform.position, dogPrefab.transform.rotation);
         }
+
+       
     }
+
 }
-*/
