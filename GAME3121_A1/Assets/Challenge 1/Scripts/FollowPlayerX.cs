@@ -9,7 +9,7 @@ public class FollowPlayerX : MonoBehaviour
 
     void Start()
     {
-        offset = new Vector3(0f, 5.21f, -14.57f); 
+        offset = new Vector3(15.49f, 2.31f, 2.33f); 
     }
 
     void LateUpdate() 
